@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ImageIO.cpp
+c:\users\admin\desktop\c++\图像处理大作业\图像处理大作业\imageio.cpp(32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\desktop\c++\图像处理大作业\图像处理大作业\imageio.cpp(34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  图像处理大作业.cpp
+  图像处理大作业.vcxproj -> C:\Users\Admin\Desktop\C++\图像处理大作业\x64\Debug\图像处理大作业.exe
